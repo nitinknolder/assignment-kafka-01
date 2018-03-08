@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/assignment-kafka-01_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversation/CustomProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversation/CustomProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversation/CustomProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversation/CustomProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversation/CustomConsumer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversation/CustomConsumer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversions/StudentDataSerialization.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversions/StudentDataSerialization.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversions/StudentDataDeserialization.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversions/StudentDataDeserialization.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/StudentDataBase/StudentData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/StudentDataBase/StudentData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversation/CustomConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversation/CustomConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/StudentDataBase[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/StudentDataBase[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversation/CustomProducer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversation/CustomProducer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversation/CustomConsumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversation/CustomConsumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/Conversation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/Conversation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/StudentDataBase/StudentData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-kafka-01/target/scala-2.12/classes/edu/knoldus/StudentDataBase/StudentData$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
